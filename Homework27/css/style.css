@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+background-color: silver;
+
+
+}
+.header-r select{
+    background-color: transparent;
+    border: none;
+}
+#country
+{
+    width: 85px;
+}
+button{ 
+    border-radius: 10px;
+    background-color:rgb(17, 7, 204);
+    color: aliceblue;
+}
+a{
+    color: black !important ;
+    text-decoration: none !important;
+   
+}
+.task{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+}
